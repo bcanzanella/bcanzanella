@@ -1,4 +1,4 @@
-### Hi there 👋 I work on the IDE extension @[CodeStream](https://codestream.com) at New Relic!
+### Hi there 👋
 
 <!--
 **bcanzanella/bcanzanella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
